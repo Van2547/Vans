@@ -1,2 +1,2 @@
 # Vans
-Information System
+Law Website
